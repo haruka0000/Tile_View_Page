@@ -1,0 +1,23 @@
+article {
+  margin: 0 auto;
+  height: 100%;
+}
+
+article > ul {
+  width: 3100px; //　iphone4sに合わせて310pxとした
+  margin: 5px;
+  overflow: hidden;
+  list-style-type: none;
+  padding-left: 6px;
+}
+
+.alignleft { float: left; }
+
+.tile1 {
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
+
